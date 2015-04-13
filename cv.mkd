@@ -1,5 +1,5 @@
-Vaga
-====
+Vagas
+=====
 * Plataforma de Interatividades
 * Techtudo
 * Área de Webmedia
@@ -37,6 +37,7 @@ softwares científicos e empresariais.
 * Linguagens
 	* Python avançado, Javascript, Java, noções superficiais de C# devido ao
 framework Monogame
+	* Instrutor de curso de desenvolvimento web com Django no Centro Tecnológico da Novatec http://ctnovatec.com.br/cursos/trilha-python/curso-de-django/
 
 ## Experiência
 * Coordenador GTAC Solutions
