@@ -46,8 +46,8 @@ framework Monogame
 * Coordenador GTAC Solutions
  * Janeiro de 2014 – atualmente
  * Coordenador de projetos de software.
-  * Desenvolvimento de sistemas para Startups em Pyton/Django
-  * Desenvolvimento de aplicações mobile Android/API Python
+   * Desenvolvimento de sistemas para Startups em Pyton/Django
+   * Desenvolvimento de aplicações mobile Android/API Python
  * Atualmente sou desenvolvedor sênior/coordenador de um projeto de grande
 complexidade.
  * Coordenei por cerca de 5 meses 6 equipes com cerca de 8 desenolvedores no
