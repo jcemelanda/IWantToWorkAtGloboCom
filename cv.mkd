@@ -11,9 +11,8 @@ Vaga
 * Área de Big Data (vagas no Rio de Janeiro e em Porto Alegre)
 
 
-CV
-==
-#Julio Cesar Eiras Melanda
+Julio Cesar Eiras Melanda
+=========================
 
 * Rua Dr. Orlando Feirabend Filho, 51, Apto. 14
 * São José dos Campos, São Paulo, 12246-190
