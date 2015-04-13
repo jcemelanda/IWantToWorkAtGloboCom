@@ -27,9 +27,6 @@ E-mail: jcemelanda@gmail.com
 
 LinedIn: https://www.linkedin.com/in/jcemelanda
 
-## Objetivo
-Desenvolvedor Python Sênior
-
 ##Habilidades e Competências:
 * Desenvolvimento de Software
 	* Experiência com coordenação de equipes com aplicação de desenvolvimento ágil.
