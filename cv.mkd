@@ -27,75 +27,75 @@ Desenvolvedor Python Sênior
 
 ##Habilidades e Competências:
 * Desenvolvimento de Software
-..* Experiência com coordenação de equipes com aplicação de desenvolvimento ágil.
-..* Trabalho de graduação consistiu na implementação em Python de um software
+ * Experiência com coordenação de equipes com aplicação de desenvolvimento ágil.
+ * Trabalho de graduação consistiu na implementação em Python de um software
 para análise de dados chamado PyGPA. ( https://github.com/julioeiras/PyGPA )
-..* Programador em Python desde 2007, já tendo desenvolvido jogos, sites,
+ * Programador em Python desde 2007, já tendo desenvolvido jogos, sites,
 softwares científicos e empresariais.
-..* Possuo e mantenho um blog sobre programação em Python
+ * Possuo e mantenho um blog sobre programação em Python
 ( http://programeempython.blog.br )
-..* Experiência com GIT desde 2009
-..* Desenvolvimento de jogos (AndEngine, Construct2, Monogame, PyGame)
+ * Experiência com GIT desde 2009
+ * Desenvolvimento de jogos (AndEngine, Construct2, Monogame, PyGame)
 * Idiomas
-..* Inglês avançado, espanhol intermediário, francês básico
+ * Inglês avançado, espanhol intermediário, francês básico
 * Linguagens
-..* Python avançado, Javascript, Java, noções superficiais de C# devido ao
+ * Python avançado, Javascript, Java, noções superficiais de C# devido ao
 framework Monogame
 
 ## Experiência
 * Coordenador GTAC Solutions
-..* Janeiro de 2014 – atualmente
-..* Coordenador de projetos de software.
-....* Desenvolvimento de sistemas para Startups em Pyton/Django
-....* Desenvolvimento de aplicações mobile Android/API Python
-..* Atualmente sou desenvolvedor sênior/coordenador de um projeto de grande
+ * Janeiro de 2014 – atualmente
+ * Coordenador de projetos de software.
+  * Desenvolvimento de sistemas para Startups em Pyton/Django
+  * Desenvolvimento de aplicações mobile Android/API Python
+ * Atualmente sou desenvolvedor sênior/coordenador de um projeto de grande
 complexidade.
-..* Coordenei por cerca de 5 meses 6 equipes com cerca de 8 desenolvedores no
+ * Coordenei por cerca de 5 meses 6 equipes com cerca de 8 desenolvedores no
 total.
-..* Treinei e ainda presto auxílio a cerca de 15 desenvolvedores.
+ * Treinei e ainda presto auxílio a cerca de 15 desenvolvedores.
 * Desenvolvedor Treinee – Touch Health
-..* Dezembro de 2012 – Janeiro de 2014
-..* Desenvolvedor web treinee em java utilizando metodologias ágeis
+ * Dezembro de 2012 – Janeiro de 2014
+ * Desenvolvedor web treinee em java utilizando metodologias ágeis
 (SCRUM/Kamban).
-..* Responsabilidades: desenvolvimento de novas funções e correções de bugs no
+ * Responsabilidades: desenvolvimento de novas funções e correções de bugs no
 sistema, ajuda na definição de APIs e na validação de tarefas (story e code
 review).
-..* Equipe de Serviço de AMBDEV: Colaboração em todos os aspectos do ambiente
+ * Equipe de Serviço de AMBDEV: Colaboração em todos os aspectos do ambiente
 de desenvolvimento da empresa, pesquisa de novas tecnologias, implementação
 de scripts para ajudar no processo de desenvolvimento, crianção de novas
 ferramentas internas.
 * Desenvolvedor – WILCX
-..* Dezembro 2011 – novembro de 2012
-..* Desenvolvimento de aplicativos para smartphones e tablets com sistema
+ * Dezembro 2011 – novembro de 2012
+ * Desenvolvimento de aplicativos para smartphones e tablets com sistema
 operacional Android.
-..* Desenvolvimento de aplicativos de teste de hardware para tablets.
-..* Gerência dos servidores e sistemas de gerenciamento da empresa .
-..* Criação e implantação do sistema de controle de tarefas e controle de horas
+ * Desenvolvimento de aplicativos de teste de hardware para tablets.
+ * Gerência dos servidores e sistemas de gerenciamento da empresa .
+ * Criação e implantação do sistema de controle de tarefas e controle de horas
 trabalhadas e criação de blog interno para compartilhamento de informações.
 (Python/Django)
-..* Gerenciei uma equipe de 4 pessoas, composta por mais um desenvolvedor e 2
+ * Gerenciei uma equipe de 4 pessoas, composta por mais um desenvolvedor e 2
 estagiários.
 
 ## Educação
 * UNIVERSIDADE FEDERAL DE ITAJUBÁ – 2007-2012 – CIÊNCIA DA COMPUTAÇÃO
-..* Bacharel em Ciência da Computação na Universidade federal de Itajubá.
-..* Participei de diversos eventos da universidade como palestrante, vezes falando
+ * Bacharel em Ciência da Computação na Universidade federal de Itajubá.
+ * Participei de diversos eventos da universidade como palestrante, vezes falando
 sobre Python e outras falando sobre Linux.
 * UNIVERSIDADE FEDERAL DE SÃO PAULO – 2015-* – CIÊNCIA DA COMPUTAÇÃO
-..* Mestrando em Ciência da Computação na Universidade Federal de São Paulo.
-..* Cursando disciplina isolada. (Aluno especial)
+ * Mestrando em Ciência da Computação na Universidade Federal de São Paulo.
+ * Cursando disciplina isolada. (Aluno especial)
 * Curso NG-MASTERS - 2015
-..* Curso de programação frontend com AngularJS.
+ * Curso de programação frontend com AngularJS.
 
 ## Comunicação
 * Experiência com apresentações e mini cursos, já tendo ministrado cursos e palestras
 em eventos como:
-..* Palestra sobre Ptyhon no Encontro Mineiro de Software Livre, 2009 .
-..* Lightning Talk sobe Django na We Web Conf, 2012 .
-..* Palestras sobre introdução ao Linux nos I e II Composium na Universidade
+ * Palestra sobre Ptyhon no Encontro Mineiro de Software Livre, 2009 .
+ * Lightning Talk sobe Django na We Web Conf, 2012 .
+ * Palestras sobre introdução ao Linux nos I e II Composium na Universidade
 Federal de Itajubá, entre 2007 e 2012 .
-..* Mini Curso de 8 horas na FEPI em Itajubá para o curso de Sistema de Informação.
-..* Palestra de desenvolvimento de jogos em Python na DevInVale, 2015
+ * Mini Curso de 8 horas na FEPI em Itajubá para o curso de Sistema de Informação.
+ * Palestra de desenvolvimento de jogos em Python na DevInVale, 2015
 
 ## Liderança
 * Experiência com coordenação de projetos e equipes de diversos níveis de
@@ -103,8 +103,8 @@ senioridade.
 
 ## Referências
 * Tony França (Tony Lâmpada)
-..* Arquiteto de sistemas na empresa Qmágico
-..* tonylampada@gmail.com
+ * Arquiteto de sistemas na empresa Qmágico
+ * tonylampada@gmail.com
 * Denis Costa
-..* Desenvolvedor na empresa GTAC Solutions
-..* deniscostadsc@gmail.com
+ * Desenvolvedor na empresa GTAC Solutions
+ * deniscostadsc@gmail.com
