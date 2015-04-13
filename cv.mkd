@@ -16,10 +16,15 @@ CV
 #Julio Cesar Eiras Melanda
 
 Rua Dr. Orlando Feirabend Filho, 51, Apto. 14
+
 São José dos Campos, São Paulo, 12246-190
+
 +55 12 99150 7808
+
 Blog: http://programeempython.com.br
+
 E-mail: jcemelanda@gmail.com
+
 LinedIn: https://www.linkedin.com/in/jcemelanda
 
 ## Objetivo
