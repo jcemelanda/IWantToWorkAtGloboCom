@@ -39,6 +39,7 @@ softwares científicos e empresariais.
 framework Monogame
 
 ## Experiência
+
 ### Coordenador de projetos de Software - GTAC Solutions
 * Janeiro de 2014 – atualmente
 * Coordenador de projetos de software.
@@ -49,6 +50,7 @@ complexidade.
 * Coordenei por cerca de 5 meses 6 equipes com 8 desenolvedores no
 total.
 * Treinei e ainda presto auxílio a cerca de 15 desenvolvedores.
+
 ### Desenvolvedor Treinee – Touch Health
 * Dezembro de 2012 – Janeiro de 2014
 * Desenvolvedor web treinee em java utilizando metodologias ágeis
@@ -60,6 +62,7 @@ review).
 de desenvolvimento da empresa, pesquisa de novas tecnologias, implementação
 de scripts para ajudar no processo de desenvolvimento, crianção de novas
 ferramentas internas.
+
 ### Desenvolvedor – WILCX
 * Dezembro 2011 – novembro de 2012
 * Desenvolvimento de aplicativos para smartphones e tablets com sistema
@@ -77,9 +80,11 @@ estagiários.
 * Bacharel em Ciência da Computação na Universidade federal de Itajubá.
 * Participei de diversos eventos da universidade como palestrante, vezes falando
 sobre Python e outras falando sobre Linux.
+
 ### UNIVERSIDADE FEDERAL DE SÃO PAULO – 2015-* – Ciência da Computação
 * Mestrando em Ciência da Computação na Universidade Federal de São Paulo.
 * Cursando disciplina isolada. (Aluno especial)
+
 ### Curso NG-MASTERS - 2015 - Desenvolvimento Web
 * Curso de programação frontend com AngularJS.
 
